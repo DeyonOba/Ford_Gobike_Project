@@ -1,5 +1,7 @@
 # Ford_Gobike_Project
 
+![image](https://www.dailycal.org/2017/07/12/ford-gobike-makes-way-berkeley)
+
 ## Introduction
 This data set includes information about 183,400 individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 The data set contains information regarding:
